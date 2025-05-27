@@ -3,8 +3,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ömer ŞAHİN</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Merhaba 👋, benim adım Ömer ŞAHİN</h1>
+<h3 align="center">Türkiyede full stack developer olarak bu sektörde kendimi geliştirmekteyim</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
