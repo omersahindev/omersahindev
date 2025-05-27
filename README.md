@@ -1,5 +1,4 @@
-! [MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.pikbest.com%2Fbackgrounds%2Fqiantu-neon-light-stage-divergence-vector-beautiful-banner-background_2759701.html&psig=AOvVaw0NJiAkKs0JnM1UXNubagYk&ust=1748432824236000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC48_nJw40DFQAAAAAdAAAAABAi)
-
+! [MasterHead](https://img.pikbest.com/backgrounds/20190826/neon-light-stage-divergence-vector-beautiful-banner-background_2759701.jpg!bwr800)
 
 
 
